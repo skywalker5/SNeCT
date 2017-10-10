@@ -13,11 +13,11 @@ Paper
 
 **SNeCT: Integrative cancer data analysis via large scale network constrained tensor decomposition**  
 [Dongjin Choi](https://skywalker5.github.io/), [Sael Lee](http://www3.cs.stonybrook.edu/~sael/)  
-[[PDF](), [Supplementary material]()]
+[[PDF](/paper/SNeCT.pdf), [Supplementary material](/paper/SNeCT.pdf)]
 
 Code
 ---------------
-See Github directory for [SNeCT v1.0](/Code)
+See Github repository for [SNeCT](https://github.com/skywalker5/SNeCT_code)
 
 
 Data
