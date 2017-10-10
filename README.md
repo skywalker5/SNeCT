@@ -24,5 +24,5 @@ Data
 ---------------
 | Name | Structure | Size | Number of Entries | Download |
 | :------------ | :-----------: | :-------------: |------------: |:------------------: |
-| PanCan12     | Patient - Gene - Platform | 4,555 &times 14,351 x 5 | 183,211,020 | [DOWN]() |
+| PanCan12     | Patient - Gene - Platform | 4,555 &times; 14,351 x 5 | 183,211,020 | [DOWN]() |
 | Pathway    | Gene - Gene | 14,351 x 14,351 | 665,429 | [DOWN]() |
