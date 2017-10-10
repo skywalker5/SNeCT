@@ -17,7 +17,7 @@ Paper
 
 Code
 ---------------
-See Github repository for [SNeCT](https://github.com/skywalker5/SNeCT_code)
+See Github repository for [SNeCT_Code](https://github.com/skywalker5/SNeCT_code)
 
 
 Data
