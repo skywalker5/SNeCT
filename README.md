@@ -24,5 +24,5 @@ Data
 ---------------
 | Name | Structure | Size | Number of Entries | Download |
 | :------------ | :-----------: | :-------------: |------------: |:------------------: |
-| PanCan12     | Patient - Gene - Platform | 4,555 &times; 14,351 &times; 5 | 183,211,020 | [DOWN]() |
-| Pathway    | Gene - Gene | 14,351 &times; 14,351 | 665,429 | [DOWN]() |
+| PanCan12     | Patient - Gene - Platform | 4,555 &times; 14,351 &times; 5 | 183,211,020 | [DOWN](https://datalab.snu.ac.kr/data/SNeCT/pancan12_tensor.tar.gz) |
+| Pathway    | Gene - Gene | 14,351 &times; 14,351 | 665,429 | [DOWN](https://datalab.snu.ac.kr/data/SNeCT/pathway_network.tar.gz) |
